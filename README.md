@@ -13,7 +13,7 @@ I'm currently pursuing a degree in Data Science, where I'm learning and explorin
 Feel free to connect with me on:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manasa-kumar-8828432a3/cc)
 - [![Instagram](https://img.shields.io/badge/Instagram-YourInstagramProfile-red?style=flat-square&logo=instagram)](https://www.instagram.com/__.manasa_/)
-- [![X](https://img.shields.io/badge/X-YourXProfile-green?style=flat-square&logo=x)](https://twitter.com/ManasaKumar1103) <!-- Replace X with relevant platform -->
+- [![X](https://img.shields.io/badge/X-YourXProfile-green?style=flat-square&logo=x)](https://twitter.com/ManasaKumar1103) 
 - [![LeetCode](https://img.shields.io/badge/LeetCode-YourLeetCodeProfile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/manasa1103/)
 
 Let's connect and learn together!
